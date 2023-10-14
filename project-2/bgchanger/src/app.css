@@ -1,0 +1,57 @@
+.bg {
+  width: 100vw;
+  height: 100vh;
+  background-color: green;
+}
+
+.green {
+  width: 100vw;
+  height: 100vh;
+  background-color: green;
+}
+.purple {
+  width: 100vw;
+  height: 100vh;
+  background-color: purple;
+}
+.red {
+  width: 100vw;
+  height: 100vh;
+  background-color: red;
+}
+.black {
+  width: 100vw;
+  height: 100vh;
+  background-color: black;
+}
+.orange {
+  width: 100vw;
+  height: 100vh;
+  background-color: orange;
+}
+
+.cl_butt {
+  padding: 1rem;
+  font-size: 1.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 4rem;
+}
+
+.txt-green {
+  color: green;
+}
+.txt-purple{
+    color: purple;
+}
+.txt-red{
+    color: red;
+}
+.txt-black{
+    color: black;
+}
+
+.txt-orange{
+    color: orange;
+}
